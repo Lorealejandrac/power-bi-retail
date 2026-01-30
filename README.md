@@ -69,7 +69,7 @@ Este diseño permite:
 - Análisis temporal consistente
 - Segmentación por producto, categoría y región
 - Cálculos DAX precisos y reutilizables
-  
+  ![Overview](power-bi-esquema-estrella.png)
 ---
 
 ## 📊 Dashboard – Control Logístico y Análisis ABC
@@ -105,7 +105,7 @@ Se prioriza:
 - Agregación sobre detalle sensible
 - Jerarquía visual clara
 - Lectura rápida de indicadores críticos
-
+![Overview](tablero-logistico.png)
 ---
 
 ## 🎨 Experiencia de Usuario (UX)
